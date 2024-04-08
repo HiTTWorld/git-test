@@ -1,3 +1,5 @@
 print("test")
 print("ddd")
 print("ddddddd")
+print("dddd")
+print("어먀")
